@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Find The Precious</title>
+</head>
+
+<body>
+
+<header>
+    <div class="navbar">
+    <a class="navbar-title" href="#">FindThePrecious.com</a>
+    <ul class="navbar-menu">
+        <li><a href="#">Fellows</a></li>
+        <li><a href="#">The Ring</a></li>
+        <li><a href="#">Get my reward</a></li>
+        <li><a href="#">Best hunters</a></li>
+        <li><a href="#">Join the army</a></li>
+        <li><a href="#">Contact us</a></li>
+    </ul>
+    </div>
+</header>
+
+<div class="slider">
+<div class="first-slide">
+    <h2>Dangerous fellowship try to destroy the ring</h2>
+    <p>Orcs, Golbins, Balrogs, protect your master Sauron !</p>
+    <img src="http://via.placeholder.com/450x140" alt="slider-findtheprecious">
+</div>
+</div>
+
+<section class="fellows">
+    <div class="container">
+        <h2>Fellows wanted dead</h2>
+        <p>(or alive if you want to eat them later)</p>
+
+        <div class="tab-fellows">
+            <a class="tab-active" href="#">
+                <h3>Most wanted</h3>
+            </a>
+            <a class="tab2">
+                <h3>Most dangerous</h3>
+            </a>
+            <a class="tab3">
+                <h3>Already captured</h3>
+            </a>
+        </div>
+    </div>
+<div class="fellow-one">
+    <img class="fellow-user" src="http://via.placeholder.com/140x140" alt="fellow-user">
+    <div class="fellow-coins">
+        Reward 1000 gold coins
+    </div>
+    <div class="fellow-name">
+        The Wizzard
+    </div>
+    <div class="fellow-description">
+        Small description...
+    </div>
+    <a class="link" href="#" ></a>
+</div>
+<div class="fellow-two">
+    <img class="fellows_user" src="http://via.placeholder.com/140x140" alt="fellows_user">
+    <div class="fellow-coins">
+        Dead
+    </div>
+    <div class="fellow name">
+        Hobbit #3
+    </div>
+    <div class="fellow-description">
+        Small description...
+    </div>
+    <a class="link" href="#" ></a>
+</div>
+<div class="fellow-three">
+    <img class="fellow-user" src="http://via.placeholder.com/140x140" alt="fellow-user">
+    <div class="fellow-coins">
+        Reward 250 gold coins
+    </div>
+    <div class="fellow-name">
+        Yummy Dwarf
+    </div>
+    <div class="fellow-description">
+        Small description...
+    </div>
+    <a class="link" href="#" ></a>
+</div>
+</section>
+
+<section class="reward">
+    <img src="http://via.placeholder.com/140x140" alt="FindThePrecious_reward">
+    <h2>I have captured one of them, how to get my reward ?</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <button class="button">Contact us</button>
+</section>
+
+<section class="best-hunters">
+    <div class="container-hunters">
+        <h2>Best hunters</h2>
+        <div class="card-hunter1">
+            <img src="http://via.placeholder.com/70x70" alt="card-hunter-elveskiller22">
+            <h3>ElvesKiller22</h3>
+            <p>2 captures -</p>
+            <a href="#">Profile</a>
+            <a href="#">Like</a>
+        </div>
+        <div class="card-hunter2">
+            <img src="http://via.placeholder.com/70x70" alt="card-hunter-goblin45">
+            <h3>Goblin45</h3>
+            <p>1 capture -</p>
+            <a href="#">Profile</a>
+            <a href="#">Like</a>
+        </div>
+    </div>
+</section>
+
+<section class="the-ring">
+    <h2>About the ring</h2>
+    <h3>Ring capabilities</h3>
+    <p>What can our master Sauron do with the ring ?</p>
+<div class="table">
+<table>
+    <tr>
+        <td>Main</td>
+        <td>One ring to rules them all</td>
+    </tr>
+    <tr>
+        <td>Invisibility</td>
+        <td>Bass</td>
+    </tr>
+    <tr>
+        <td>George Harrison</td>
+        <td>You can't see me</td>
+    </tr>
+    <tr>
+        <td>Power</td>
+        <td>Destroy the world</td>
+    </tr>
+</table>
+</div>
+<div class="awesome-ring">
+    <h3>Why the ring is awesome ?</h3>
+    <div class="gollum-comment">
+        <p>My preciooooooussssss ! Hrk Hrk, we want our preeciooooouuusssss !!</p>
+        <p><span>Golum</span>≈</p>
+        <img src="http://via.placeholder.com/70x70" alt="gollum">
+    </div>
+</div>
+</section>
+
+<section class="join-us">
+    <div class="we-need-you">
+        <h2>Join Mordor Army, we need you !</h2>
+        <img src="http://via.placeholder.com/140x140" alt="join-us-card">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <button class="button-info">More info on SauronRulesThemAll.com</button>
+    </div>
+</section>
+
+<section class="contact-us">
+    <h2>Contact us</h2>
+    <form formulaire="post" action="formulaire.php">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="Your email"/>
+        <label for="lname">Adresse</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your address">
+        <select id="country" name="country">
+            <option value="australia">I have seen one of them</option>
+        </select>
+        <div class="message">
+            <textarea id="message" name="message" placeholder="Write something">Your message</textarea>
+        </div>
+    </form>
+</section>
+
+    <footer>
+        <div class="footer">
+            <div class="footer-links">
+                <a href="#">About us</a>
+                <a href="#">Fellows</a>
+                <a href="#">Join our army</a>
+                <a href="#">FAQ</a>
+                <a href="#">Reward conditions</a>
+                <a href="#">Legal mentions</a>
+                <a href="#">Sauron4Ever.com</a>
+                <a href="#">Follow him also on twitter</a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
